@@ -27,3 +27,6 @@ This repository serves as a public-facing company profile and documentation hub 
 
 ## NAICS codes
 https://github.com/EvaKemp/Tradex-Holdings-LLC/blob/main/NAICs.md
+## Focused Bids/Projects
+https://github.com/users/EvaKemp/projects/5
+
