@@ -24,3 +24,6 @@ To deliver reliable, compliant, and innovative technology and professional servi
 
 ## Repository Purpose
 This repository serves as a public-facing company profile and documentation hub for Tradex Holdings LLC. Additional technical projects, documentation, and capability artifacts may be added over time.
+
+## NAICS codes
+https://github.com/EvaKemp/Tradex-Holdings-LLC/blob/main/NAICs.md
