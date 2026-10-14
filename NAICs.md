@@ -72,7 +72,19 @@ These codes describe manufacturing activities. Distinguish manufacturing from pu
 | 334511 | Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing |
 | 334513 | Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables |
 
-## 6. Search Keywords
+
+### 6. Public Administration (Sector 92)
+[NAICS Sector 92 Public Administration Tool](https://naics.com).
+
+| NAICS Code | Industry Title | Core Function |
+| :--- | :--- | :--- |
+| **`921190`** | Other General Government Support | General government administration, civil service commissions, and personnel offices. |
+| **`923110`** | Administration of Education Programs | Government departments managing public school systems and universities. |
+| **`923120`** | Administration of Public Health Programs | Health departments, food/drug inspection agencies, and community health management. |
+| **`923130`** | Administration of Human Resource Programs | Administration of social work, Social Security, and unemployment insurance programs. |
+
+
+## 7. Search Keywords
 
 Use relevant keywords alongside NAICS codes to find opportunities. Run separate searches where useful.
 
@@ -90,7 +102,7 @@ Use relevant keywords alongside NAICS codes to find opportunities. Run separate 
 
 Cybersecurity, AI, data analytics, UX, and software testing do not each have one dedicated NAICS code. The appropriate classification depends on the main work being purchased.
 
-## 7. GitHub Opportunity Template
+## 8. GitHub Opportunity Template
 
 Create a separate GitHub issue for each opportunity and add it to the contract-tracking Project, if used.
 
